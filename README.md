@@ -10,5 +10,5 @@ Dirigido a chicas y empresas que tengan hambre de crecimiento y quieran obtener 
 
 3. Sketch para la herramienta del dashboard de Laboratoria
 ##Imagen de Skectch
-![Sketch](assets/images/skectch_laboratoria_01.jpeg)
-![Sketch](assets/images/skectch_laboratoria_02.jpeg)
+![Sketch](assets/images/sketch_laboratoria_01.jpg)
+![Sketch](assets/images/sketch_laboratoria_02.jpg)
