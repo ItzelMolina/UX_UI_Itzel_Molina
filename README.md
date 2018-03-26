@@ -1,4 +1,4 @@
-## Retos correspondiente a la Unidad 3: Intro a User Experience Design.*
+## Retos correspondiente a la Unidad 3: Intro a User Experience Design.
 
 1. Explica que partes conforman el UX y  que partes el UI de Laboratoria.
 
